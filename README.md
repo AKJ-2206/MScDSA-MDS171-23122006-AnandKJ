@@ -13,5 +13,7 @@ Email: anand.kj@msds.christuniversity.in
 ## Index
 |sl.no|date|file name|topic|
 |:----:|:----:|:---:|:----:|
-|1.|23-08-23|lab01|write a program to enter name and push it to github|
+|1.|23-08-23|lab01|Write a program to Enter Name and push it to github|
+|2.|28-08-23|lab02|The Name collector's Quest|
+
 
