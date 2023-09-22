@@ -1,0 +1,22 @@
+﻿Type,Expense Category,Amount,Description,Date
+expense,food,500,dinner,17-02-2023
+income,electricity bill,452,paid,18-02-2023
+income ,rent,700,paid,19-02-2023
+income,shopping,1000,family,20-02-2023
+expense,shopping,2500,Oberon Mall,21-02-2023
+expense,food,805,lunch,22-02-2023
+income ,food,900,dinner,23-02-2023
+income,salary,600,job,24-02-2023
+expense,shopping,2023,shoes,25-02-2023
+expense,shopping,4220,family,26-02-2023
+expense,food,785,breakfast,27-02-2023
+income ,food,400,breakfast,28-02-2023
+income,salary,900,job,01-03-2023
+expense,shopping,1000,family,02-03-2023
+expense,shopping,450,family,03-03-2023
+expense,food,200,Milkshake,04-03-2023
+income ,food,700,Milkshake,05-03-2023
+income,rent,1200,paid,06-03-2023
+expense,salary,5000,saved,07-03-2023
+income,Food,400,Dinner,09/09/2023
+expense,food,500,lunch,10/09/2023
