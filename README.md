@@ -20,5 +20,7 @@ Email: anand.kj@msds.christuniversity.in
 |5.|8-09-23|lab05|Mix and Match Calculator|
 |6.|11-09-23|lab06|Vowel Count and Percentage of the vowels in the particular string|
 |7.|17-09-23|lab07|Menu driven Restaurant|
-|8.|22-09-23|lab09|Create a csv file for expense/income tracker with class|
+|8.|19-09-23|lab08|Python program for Matrix Multiplication|
+|9.|22-09-23|lab09|Create a csv file for expense/income tracker with class|
+|10.|26-10-23|lab10|Create a Python Class for managing student details and marks|
 
